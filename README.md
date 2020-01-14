@@ -1,2 +1,1 @@
-# blog
-📖 personal blog, focused in game development
+## 2018-03-26 [Thinking about a Pong "AI"](https://github.com/coelhucas/blog/issues/1)

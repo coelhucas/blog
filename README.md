@@ -1,3 +1,5 @@
+See [here](https://lucascoelho.dev/blog) a better version for reading these posts.
+
 #### YYYY-MM-DD FLAG: TITLE
 #### 2021-12-13 🇺🇸: [23](https://github.com/coelhucas/blog/issues/5)
 #### 2021-10-06 🇧🇷: [Reduce - JavaScript](https://coelhucas.medium.com/reduce-javascript-7f00a06b0a80)

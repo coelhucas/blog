@@ -1,4 +1,4 @@
-See [here](https://lucascoelho.dev/blog) a better version for reading these posts.
+See [here](https://lucascoelho.dev/blog) a better place to read these posts.
 
 #### YYYY-MM-DD FLAG: TITLE
 #### 2021-12-13 🇺🇸: [23](https://github.com/coelhucas/blog/issues/5)

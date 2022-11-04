@@ -1,6 +1,8 @@
 See [here](https://lucascoelho.dev/blog) a better place to read these posts.
 
 #### YYYY-MM-DD FLAG: TITLE
+#### 2021-12-13 🇺🇸: [I STILL want shorter games, with worse graphics made by people who are paid more to work less | Blog - lucascoelho.dev
+](https://github.com/coelhucas/blog/issues/8)
 #### 2022-06-16 🇧🇷: [Por que copiar código nas suas primeiras tarefas vai te sabotar?](https://github.com/coelhucas/blog/issues/6)
 #### 2021-12-13 🇺🇸: [23](https://github.com/coelhucas/blog/issues/5)
 #### 2021-10-06 🇧🇷: [Reduce - JavaScript](https://coelhucas.medium.com/reduce-javascript-7f00a06b0a80)
